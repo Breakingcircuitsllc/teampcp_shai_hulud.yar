@@ -1,5 +1,5 @@
 # TeamPCP / Shai-Hulud YARA Rules
-### Open Source Defense — Breaking Circuits LLC
+### Open Source Defense — Breaking Circuits LLC-THANKS -WE-LOVE-GIFTS!
 
 Public YARA detection rules for the **Shai-Hulud / Mini Shai-Hulud** supply chain worm 
 campaign operated by threat actor group **TeamPCP** (aliases: DeadCatx3, PCPcat, 
